@@ -1,10 +1,17 @@
 # Brand formats
 
-Every platform has a different set of requirements for your brand images.
+> A reference list of brand image requirements from multiple platforms.
+
 When your help, this repo tracks the recommended properties for each platform so you don't have to go platform-by-platform and look it up.
 
+Contributions welcome!
 
-### Social Media
+## Content
+
+- [Social Media](#social-media)
+- [Enterprise Software](#enterprise-software)
+
+## Social Media
 
 | Media | Image (width x height) | Recommended dimensions | Recommended file type | Max size | Source |
 |---|---|---|---|---|---|
@@ -19,7 +26,7 @@ When your help, this repo tracks the recommended properties for each platform so
 | Facebook | Cover | 851x312 px | JPG, PNG |  | [Facebook help](https://www.facebook.com/help/125379114252045) |
 | Instagram | Profile | 110x110 px | |  | [Snappa](https://blog.snappa.com/instagram-profile-picture-size/) |
 
-### Enterprise Software
+## Enterprise Software
 
 | Media | Image (width x height) | Recommended dimensions | Recommended file type | Max size | Source |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 When your help, this repo tracks the recommended properties for each platform so you don't have to go platform-by-platform and look it up.
 
-Contributions welcome!
+Contributions welcome! Check out our [contribution guide](contributing.md).
 
 ## Content
 
